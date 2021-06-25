@@ -15,7 +15,7 @@ puppeteer.use(StealthPlugin());
 	console.log('正在打开 Chrome...'.green);
 	const browser = await puppeteer.launch({
 		executablePath,
-		headless: false
+		headless: true
 	});
 
 	console.log('正在打开奥鹏学习平台...'.green);
