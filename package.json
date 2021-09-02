@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "carlo": "^0.9.46",
     "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "puppeteer": "^10.2.0",
     "puppeteer-extra": "^3.1.18",
     "puppeteer-extra-plugin-stealth": "^2.7.8"
   }

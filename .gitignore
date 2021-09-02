@@ -3,4 +3,5 @@ logs
 .vscode/settings.json
 .idea/*
 .DS_Store
+.vscode
 package-lock.json
